@@ -19,7 +19,7 @@ Definition of inverse problem: 已知道y求x
 **Optimization/Regression**
 Linear inverse problem example:
 
-y = Ax + e
-want to find x^*
+$$y = Ax + e$$
+want to find $$x^*$$
 
-\hat{x} = arg min f(y; Ax)
+$$\hat{x} = arg min f(y; Ax)$$
