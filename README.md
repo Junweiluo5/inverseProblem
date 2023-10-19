@@ -23,4 +23,4 @@ $y = Ax + e$
 
 want to find $x^*$
 
-$$\hat{x} = arg min f(y; Ax)$$
+$\hat{x} = arg min f(y; Ax)$
