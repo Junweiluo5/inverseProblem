@@ -24,3 +24,9 @@ $y = Ax + e$
 want to find $x^*$
 
 $\hat{x} = arg min f(y; Ax)$
+
+**PGD-GAN (projected gradient descent-GAN)**
+
+two steps:
+a. Gradient descense updata step
+b. Projection step
