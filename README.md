@@ -20,6 +20,7 @@ Definition of inverse problem: 已知道y求x
 Linear inverse problem example:
 
 $$y = Ax + e$$
+
 want to find $$x^*$$
 
 $$\hat{x} = arg min f(y; Ax)$$
